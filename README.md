@@ -1,5 +1,7 @@
 # pip_freeze
 
+[My installed packages](./packages.txt)
+
 ## Export installed packages
 
 `pip freeze`
